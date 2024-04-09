@@ -1,0 +1,20 @@
+{
+    "en": {
+        "welcomeMessage": "Hello !",
+        "normalMessage": "I Am Purvi.",
+        "greetingMessage": "I am from nagpur, currently pursuing B.Tech in Data Science at G H Raisoni College of Engineering, Nagpur.",
+        "endMessage": "Thank You !"
+    },
+    "mr": {
+        "welcomeMessage": "नमस्कार !",
+        "normalMessage": "मी पुर्वी.",
+        "greetingMessage": "मी नागपूरची आहे, सध्या नागपूरच्या जीएच रायसोनी कॉलेज ऑफ इंजिनीअरिंग मध्ये डेटा सायन्स मध्ये बीटेक करत आहे.",
+        "endMessage": "धन्यवाद !"
+    },
+    "hn": {
+        "welcomeMessage": "नमस्ते !",
+        "normalMessage": "मैं पुर्वी।",
+        "greetingMessage": "मैं नागपुर से हूं, वर्तमान में जीएच रायसोनी कॉलेज ऑफ इंजीनियरिंग नागपुर में डेटा साइंस में बी.टेक कर रही हूं। ",
+        "endMessage": "धन्यवाद !"
+    }
+}
