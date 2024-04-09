@@ -6,12 +6,13 @@ function Home() {
   // const userCount = 15;
 
   return (
-    <div>
+    <div className='msgs'>
       <h1>{I18n("welcomeMessage")}</h1>
       <p>{I18n("normalMessage")}</p>
       <h3>{I18n("greetingMessage")}</h3>
       <h5>{I18n("endMessage")}</h5>
 
+      
       <select
         defaultValue={localStorage.getItem("lang")}
         onChange={(e) => {
